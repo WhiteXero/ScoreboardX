@@ -1,0 +1,11 @@
+{
+    "id": "scoreboardx",
+    "version": "1.0.0",
+    "name": "ScoreboardX",
+    "description": "Make scoreboard great again.",
+    "author": "WhiteXero",
+    "link": "https://github.com/WhiteXero/ScoreboardX",
+    "dependencies": {
+        "mcdreforged": ">=2.1.0"
+    }
+}
